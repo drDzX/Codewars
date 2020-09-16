@@ -1,0 +1,14 @@
+﻿  Main.cpp
+E:\Dezex\Projects\Codewars\Codewars\Codewars\Main.cpp(24,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Dezex\Projects\Codewars\Codewars\Codewars\Main.cpp(25,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Dezex\Projects\Codewars\Codewars\Codewars\Main.cpp(26,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Dezex\Projects\Codewars\Codewars\Codewars\Main.cpp(27,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Dezex\Projects\Codewars\Codewars\Codewars\Main.cpp(28,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Dezex\Projects\Codewars\Codewars\Codewars\Main.cpp(29,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Dezex\Projects\Codewars\Codewars\Codewars\Main.cpp(30,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Dezex\Projects\Codewars\Codewars\Codewars\Main.cpp(31,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Dezex\Projects\Codewars\Codewars\Codewars\Main.cpp(32,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Dezex\Projects\Codewars\Codewars\Codewars\Main.cpp(33,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Dezex\Projects\Codewars\Codewars\Codewars\Main.cpp(34,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+E:\Dezex\Projects\Codewars\Codewars\Codewars\Main.cpp(35,29): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Codewars.vcxproj -> E:\Dezex\Projects\Codewars\Codewars\Debug\Codewars.exe
